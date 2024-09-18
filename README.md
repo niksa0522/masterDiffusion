@@ -12,4 +12,6 @@ Lora nikolailic je kreirana kao Lora karaktera i cilj je da nauči kako izleda o
 
 Lora BOTWStyleLora je kreirana kao Lora stila i cilj je da nauči stil prisutan u slikama iz trening skupa podataka.
 
+Druga lora koja je korišćena u kombinaciji sa Lorom nikolailic se nalazi na linku: https://civitai.com/models/76937?modelVersionId=98713
+
 Trening slike se nalaze u folderu TreningSkupPodataka
